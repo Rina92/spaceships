@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/spaceships/static/css/main.9ed36dc9.chunk.css",
+    "main.js": "/spaceships/static/js/main.7d60cf94.chunk.js",
+    "main.js.map": "/spaceships/static/js/main.7d60cf94.chunk.js.map",
+    "runtime-main.js": "/spaceships/static/js/runtime-main.8a104aec.js",
+    "runtime-main.js.map": "/spaceships/static/js/runtime-main.8a104aec.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/spaceships/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.e2b4dee2.chunk.js": "/spaceships/static/js/2.e2b4dee2.chunk.js",
+    "static/js/2.e2b4dee2.chunk.js.map": "/spaceships/static/js/2.e2b4dee2.chunk.js.map",
+    "index.html": "/spaceships/index.html",
+    "precache-manifest.c0ea7d56d8a39c35b3a5be01c438ef15.js": "/spaceships/precache-manifest.c0ea7d56d8a39c35b3a5be01c438ef15.js",
+    "service-worker.js": "/spaceships/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/spaceships/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.9ed36dc9.chunk.css.map": "/spaceships/static/css/main.9ed36dc9.chunk.css.map",
+    "static/media/index.css": "/spaceships/static/media/background.2f525e7a.jpg",
+    "static/media/linkphoto.9aacd12b.svg": "/spaceships/static/media/linkphoto.9aacd12b.svg",
+    "static/media/refresh.d301b0f2.svg": "/spaceships/static/media/refresh.d301b0f2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a104aec.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.e2b4dee2.chunk.js",
+    "static/css/main.9ed36dc9.chunk.css",
+    "static/js/main.7d60cf94.chunk.js"
+  ]
+}
